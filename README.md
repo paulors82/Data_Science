@@ -22,9 +22,9 @@ Formado em Análise e Desenvolvimento de Sistemas, bem como formação Técnica 
 ## Data Sciense
 Portfólio de Projetos:
 
-<!--
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
+* **Analisando os dados do Airbnb:** https://bit.ly/3eD0WIb
+
+<!--* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
 * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
