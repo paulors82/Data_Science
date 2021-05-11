@@ -22,7 +22,7 @@ Formado em Análise e Desenvolvimento de Sistemas, bem como formação Técnica 
 ## Data Sciense
 Portfólio de Projetos:
 
-* **Analisando os dados do Airbnb:** https://bit.ly/3eD0WIb
+* **Analisando os dados do Airbnb:** https://bit.ly/3eCYaCR
 
 <!--* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
