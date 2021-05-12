@@ -10,7 +10,7 @@
 <sub>*Analista de Suporte e Futuro Cientista de Dados*</sub>
 
 Ampla experiência na área de Infraestrutura e Suporte, Atualmente dedicado ao estudo da Linguagem Python em suas mais diversas aplicações, priorizando Automação de Processos, Desenvolvimento WEB Django e Data Sciense.
-Seguindo uma linha de raciocínio com foco em Análise e Resolução de Problemas aplicado ao cotidiano das Organizações.
+Seguindo uma linha de raciocínio lógico com foco em Análise e Resolução de Problemas aplicado ao cotidiano das Organizações.
 
 Formado em Análise e Desenvolvimento de Sistemas, bem como formação Técnica na área de TI e cursos extracurriculares em Python e Data Sciense.
 
