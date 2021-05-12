@@ -16,7 +16,7 @@ Formado em Análise e Desenvolvimento de Sistemas, bem como formação Técnica 
 
 <!--**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.-->
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/paulo-roberto-da-silva-88033b164)
+* [Linkedin](https://www.linkedin.com/in/paulo-roberto-da-silva-88033b164)
 <!--* [Medium](https://www.medium.com)-->
 
 ## Data Sciense
