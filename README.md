@@ -6,12 +6,14 @@
 
 
 # Paulo Roberto da Silva
-<sub>*Analista de Suporte e Futuro Cientista de Dados*</sub>
+<sub>*IT Infrastructure Analyst | IT Support Analyst | Junior Python Developer | Junior Data Scientist*</sub>
 
-Ampla experiência na área de Infraestrutura e Suporte, Atualmente dedicado ao estudo da Linguagem Python em suas mais diversas aplicações, priorizando Automação de Processos, Desenvolvimento WEB Django e Data Science.
-Seguindo uma linha de raciocínio lógico com foco em Análise e Resolução de Problemas aplicado ao cotidiano das Organizações.
+Analista de TI com ampla experiência na área de suporte e gestão de ambientes a quase duas décadas, sigo focado em crescimento pessoal e profissional. 
+Atuando em gestão de ambientes Windows Server e Linux, bem como firewalls corporativos sonicwall e Miktrotik, VPN, administração de ambientes Google GSuite e Microsoft 365 Bussiness. 
+Venho me especializando no uso da linguagem Python em suas mais diversas aplicações, priorizando Automação de Processos, Desenvolvimento Web e Data Science. 
+Unindo essas duas frentes, e uma linha de raciocínio lógico com foco em Análise e Resolução de Problemas aplicado ao cotidiano das organizações, busco agregar valor ao negócio otimizando a experiência do usuário, qualidade e disponibilidade dos serviços e redução de custos.
 
-Formado em Análise e Desenvolvimento de Sistemas, bem como formação Técnica na área de TI e cursos extracurriculares em Python e Data Science.
+Stay Hungry, Stay Foolish....
 
 <!--**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.-->
 **Links:**
