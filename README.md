@@ -24,7 +24,7 @@ Stay Hungry, Stay Foolish....
 Portfólio de Projetos:
 
 * **Analisando os dados do Airbnb:** https://bit.ly/3eCYaCR
-* **Detecção de Fraude em Cartões de Crédito** 
+* **Detecção de Fraude em Cartões de Crédito:** https://bit.ly/3amB0kx
 
 <!--* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
