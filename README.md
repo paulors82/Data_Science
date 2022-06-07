@@ -26,11 +26,4 @@ Portfólio de Projetos:
 * **Analisando os dados do Airbnb:** https://bit.ly/3eCYaCR
 * **Detecção de Fraude em Cartões de Crédito:** https://bit.ly/3ayTZbp
 
-<!--* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
--->
 ---
