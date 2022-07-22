@@ -25,6 +25,6 @@ Portfólio de Projetos:
 
 * **Analisando os dados do Airbnb:** https://bit.ly/3eCYaCR
 * **Detecção de Fraude em Cartões de Crédito:** https://bit.ly/3ayTZbp
-* **Churn Prediction para uma Empresa de Telecomunicações:** https://bit.ly/3b2ev51
+* **Churn Prediction para uma Empresa de Telecomunicações:** https://bit.ly/3v9eRxH
 
 ---
